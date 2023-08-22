@@ -1,6 +1,6 @@
 # Projeto AspNet API para controle de clientes
 
- * Esse projeto eu refiz pois ele já existe em meu repositório, o intuito é aprimorar ténicas SOLID e Praticar/ajustar o DDD(Domain-Driven Design) 
+* Esse projeto eu refiz pois ele já existe em meu repositório, o intuito é aprimorar ténicas SOLID e Praticar/ajustar o DDD(Domain-Driven Design) 
 
 ### Tecnologias utilizadas:
 * AspNet 7 API
