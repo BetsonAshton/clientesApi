@@ -6,6 +6,7 @@
 * AspNet 7 API
 * Microserviços REST
 * SOLID
+* SQL Server
 * Swagger
 * Entity Framework Core (Criar banco de dados no Sql Server "BD_ClientesApi2")
 * DDD(Domain-Driven Design)
