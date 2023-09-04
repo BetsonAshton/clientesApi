@@ -25,7 +25,7 @@ namespace ClientesApi.InfraStructure.Repositories
                 {
                     // Acesso à exceção interna para obter mais detalhes
                     var innerException = ex.InnerException;
-                    // Faça algo com a exceção interna, como exibir informações de erro ou registrar
+                    
                 }
             }
         }
