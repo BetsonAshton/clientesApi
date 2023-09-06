@@ -31,6 +31,7 @@ namespace ClientesApi.Domain.Services
             cliente.Email = entity.Email;
             cliente.Cpf = entity.Cpf;
             cliente.Telefone = entity.Telefone;
+            cliente.DataHoraCriacao = entity.DataHoraCriacao = DateTime.Now;
 
             _clienteRepository.Update(cliente);
 
