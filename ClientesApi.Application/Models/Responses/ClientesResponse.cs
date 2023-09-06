@@ -14,5 +14,11 @@ namespace ClientesApi.Application.Models.Responses
         public string? Email { get; set; }
         public string? Cpf { get; set; }
         public string? Telefone { get; set; }
+         public DateTime? DataHoraCriacao { get; set; }
+
+        public ClientesResponse()
+        {
+            DataHoraCriacao = DateTime.Now;
+        }
     }
 }
